@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahe-Mikaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 *  Tecnico em informatica - IFPB 
-* Graduação em ADS (2/6) - IFPB
+* Graduação em ADS (3/6) - IFPB
 
 ## Áreas de interesse
 * Backend, com principais linguagens C/C++,Python,Java Script.
