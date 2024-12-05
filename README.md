@@ -35,19 +35,19 @@ References:
 
 <div align="center">
   <div>
-    <a target="_blank" display="in-line" href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-silva-0096312b9" target="_blank">
+    <a target="_blank" display="in-line" href="https://i.kym-cdn.com/photos/images/newsfeed/000/041/494/1241026091_youve_been_rickrolled.gif" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
   <div>
-    <a target="_blank" display="in-line" href="https://instagram.com/bebel._.joao?igsh=Ymc2MjJtenR5aTh2" target="_blank">
+    <a target="_blank" display="in-line" href="https://www.instagram.com/kaheestrela/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </div>
 </div>
  
 ### Main skills:
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
@@ -75,4 +75,4 @@ References:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-00000F?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7E9EE7&height=120&section=footer"/>
