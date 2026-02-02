@@ -26,7 +26,7 @@ References:
 
 <br>
 
-<div style="width: 1000px">
+<!--!<div style="width: 1000px">
   <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Kahe-Mikaya&bg_color=000000&color=ffffff&line=7E9EE7&point=7a00fa&area=true&hide_border=true">
 </div>
 
