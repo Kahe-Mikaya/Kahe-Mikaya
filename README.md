@@ -16,7 +16,7 @@ References:
 
 <img width=1000px height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=7E9EE7&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=7E9EE7&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+Kahê+Mikáyas...;I'm+19+years+old;I'm+from+São+João+Rio+Peixe,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=7E9EE7&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+Kahê+Mikáyas...;I'm+21+years+old;I'm+from+São+João+Rio+Peixe,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
 
 
 <div>
